@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.exe.config
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.exe
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.pdb
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.Form1.resources
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.exe
+C:\Users\ASUS\source\repos\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.pdb

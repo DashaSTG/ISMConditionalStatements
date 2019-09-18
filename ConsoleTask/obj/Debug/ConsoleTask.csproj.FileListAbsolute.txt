@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\bin\Debug\ConsoleTask.exe.config
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\bin\Debug\ConsoleTask.exe
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\bin\Debug\ConsoleTask.pdb
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\obj\Debug\ConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\obj\Debug\ConsoleTask.exe
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\obj\Debug\ConsoleTask.pdb
+C:\Users\ASUS\source\repos\ISMConditionalStatements\ConsoleTask\obj\Debug\ConsoleTask.csprojResolveAssemblyReference.cache
